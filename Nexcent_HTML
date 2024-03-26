@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="inv.css">
+    <title>Document</title>
+</head>
+<body>
+    
+   
+    <div class="nav">
+        <img class="logo" src="Logo (1).png" alt="logo">
+        <div class="uldiv">
+            <ul class="navul">
+                <li class="navli"> <a class="nava" href="#">Home</a> </li>
+                <li class="navli"> <a class="nava" href="#">Features</a> </li>
+                <li class="navli"> <a class="nava" href="#">Community</a> </li>
+                <li class="navli"> <a class="nava" href="#">Blog</a></li>
+                <li class="navli"> <a class="nava" href="#">Pricing</a> </li>
+                <button class="register">Register Now</button>
+            </ul>
+        </div>
+    </div>
+
+    <!-- ...................................................................... -->
+
+    <div class="main">
+        <div class="main1">
+            <DIV CLASS="h"><h1 class="h1" id="h11">Lessons and insights</h1>
+                <h1 class="h1" id="h12">for 8 years <br></h1></DIV>
+               <nav class="spann"> <span class="h6">  Where to grow your business as a photographer: site or social media?</span></nav><br>
+                <button class="register" id="btn2">Register </button>
+           
+
+        </div>
+        <div class="main2">
+            <img class="img11" src="Illustration.png" alt="alt">
+
+        </div>
+
+    </div>
+    <!-- ...................................................... -->
+
+    <div class="v3">
+        <h1>Our Clients</h1>
+        <span class="span1"><br>We have been working with some Fortune 500+ clients</span>
+    </div>
+    <div class="imgs">
+       <img class="img" src="Logo (5).png" alt="">
+       <img class="img" src="Logo (2).png" alt="">
+       <img class="img" src="Logo (3).png" alt="">
+       <img class="img" src="Logo (4).png" alt="">
+       <img class="img" src="Logo (5).png" alt="">
+       <img class="img" src="Logo (6).png" alt="">
+       <img class="img" src="Logo (7).png" alt="">
+    </div>
+    <!-- ........................................................ -->
+    <div class="v3">
+        <h1>Manage your entre community <br> in a single system</h1>
+        <span class="span1"> <br>Who is Nextcent suitable for?</span>
+    </div>
+    <!-- ............................................................. -->
+    <div class="v5">
+        <div class="box"><img class="iconimg" src="Icon (1)-1.png" alt=""><h3 class="h33">&nbsp;  Membership <br> Organisations</h3>
+        <span>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti, ad veniam sint mollitia dolores vero iusto? At natus enim sed! Facere itaque numquam ullam atque, recusandae iusto, deleniti, nostrum maiores optio temporibus ratione illum dolores modi! Nostrum tempora at autem.</span></div>
+        <div class="box"><img class="iconimg" src="Icon (2).png" alt=""><h3 class="h33">&nbsp;  &nbsp;National <br> Associations</h3>
+        <span>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti, ad veniam sint mollitia dolores vero iusto? At natus enim sed! Facere itaque numquam ullam atque, recusandae iusto, deleniti, nostrum maiores optio temporibus ratione illum dolores modi! Nostrum tempora at autem.</span></div>
+        <div class="box"><img class="iconimg" src="Icon (2).png" alt=""><h3 class="h33">Clubs And <br> &nbsp;  &nbsp;Groups</h3>
+        <span>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti, ad veniam sint mollitia dolores vero iusto? At natus enim sed! Facere itaque numquam ullam atque, recusandae iusto, deleniti, nostrum maiores optio temporibus ratione illum dolores modi! Nostrum tempora at autem.</span></div>
+    </div>
+    <!-- ............................................................................. -->
+
+    <div class="next"></div>
+
+</body>
+</html>
